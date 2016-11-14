@@ -14,6 +14,7 @@ as vectors.
 
 Work In Progress:
 > [Linear Regression (Exercise 2)]()
+
 > [Logistic Regression (Exercise 4)]()
 
 I will add further codes as i complete them

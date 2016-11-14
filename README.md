@@ -13,7 +13,7 @@ Currently I am trying to write all the codes from scratch using python. Also I a
 as vectors.
 
 Work In Progress:
-> [Linear Regression (Exercise 2)]()
+> [Linear Regression (Exercise 2)](https://github.com/ranjeetds/Machine-Learning-Exercises-Python-Andrew-Ng/tree/master/Linear-Regression-Exercise-2)
 
 > [Logistic Regression (Exercise 4)]()
 
